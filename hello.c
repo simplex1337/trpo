@@ -6,5 +6,6 @@ int main()
 	printf("GB world!\n");
 	int i = 0;
 	i = i + 7;
+	i = i - 5;
 	return 0;
 }
